@@ -1,4 +1,4 @@
-## **Plugins VSCode**
+# :rocket: Plugins VSCode
 
 A list of auxiliary vscode plugins in front-end development
 
@@ -12,3 +12,10 @@ A list of auxiliary vscode plugins in front-end development
 | [RocketSeat React-Native](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative) | React Native snippets |
 | [RocketSeat React](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS) | React snippets |
 | [Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) | Syntax highlighting for styled-components |
+| [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)  | This plugin [attempts](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig#known-issues) to override user/workspace settings with settings found in `.editorconfig` files. No additional or vscode-specific files are required. |
+| [.DotEnv](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | Support for dotenv file syntax |
+| [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | A customizable extension for colorizing matching brackets |
+| [Ident Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | Makes indentation easier to read |
+| [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)| VS Code plugin for prettier/prettier |
+| [React Native Snippet](https://marketplace.visualstudio.com/items?itemName=jundat95.react-native-snippet) | React Native, Typescript React Native, StyleSheet, Redux Snippet |
+| [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)| Code-hinting, debugging and integrated commands for React Native |
