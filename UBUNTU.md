@@ -12,7 +12,6 @@ To prepare the development environment inside the Ubuntu operating system (Linux
 | CURL | sudo apt-get install curl  |
 | Nodejs  | apt-get -y nodejs  |
 | Git | apt-get instrall git  |
-| CURL | sudo apt-get install curl  |
 | |  |
 
   
