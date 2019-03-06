@@ -34,4 +34,13 @@ A list of auxiliary vscode plugins in front-end development
 |  |  |
 
 
+Place from top, far and close window on the left side
+
+    gsettings set org.gnome.desktop.wm.preferences button-layout 'close,maximize,minimize:'
+   
+  Gnome-Teak-Tool
+ 
+    sudo apt-get update && sudo apt-get install gnome-tweak-tool
+
+[Theme Ant-Dracula](https://www.opendesktop.org/c/1464350441)
 
